@@ -15,6 +15,14 @@
       "lastOpen": "2025-08-31T14:02:29.698Z",
       "authorized": false,
       "expire": null
+    },
+    {
+      "deviceId": "30cf1b0e46a59306",
+      "model": "Pixel 6",
+      "ip": "192.168.0.1",
+      "lastOpen": "2025-08-31T14:12:42.207Z",
+      "authorized": false,
+      "expire": null
     }
   ]
 }
