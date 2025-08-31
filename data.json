@@ -7,6 +7,14 @@
       "lastOpen": "2025-08-31T02:13:53.396Z",
       "authorized": false,
       "expire": null
+    },
+    {
+      "deviceId": "a0ab3cd490f33050",
+      "model": "24117RK2CC",
+      "ip": "192.168.1.121",
+      "lastOpen": "2025-08-31T02:14:15.071Z",
+      "authorized": false,
+      "expire": null
     }
   ]
 }
