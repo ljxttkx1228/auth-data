@@ -1,3 +1,12 @@
 {
-  "users": []
+  "users": [
+    {
+      "deviceId": "a0ab3cd490f33050",
+      "model": "24117RK2CC",
+      "ip": "192.168.1.163",
+      "lastOpen": "2025-08-31T12:13:32.458Z",
+      "authorized": false,
+      "expire": null
+    }
+  ]
 }
