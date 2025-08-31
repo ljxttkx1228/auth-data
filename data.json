@@ -1,12 +1,3 @@
 {
-  "users": [
-    {
-      "deviceId": "a0ab3cd490f33050",
-      "model": "24117RK2CC",
-      "ip": "192.168.1.163",
-      "lastOpen": "2025-08-31T10:00:23.125Z",
-      "authorized": false,
-      "expire": null
-    }
-  ]
+  "users": []
 }
