@@ -1,14 +1,6 @@
 {
   "users": [
-    
-    {
-      "deviceId": "3297fdef046f65d7",
-      "model": "24117RK2CC",
-      "ip": "192.168.1.121",
-      "lastOpen": "2025-09-04T12:10:16.871Z",
-      "authorized": false,
-      "expire": null
-    },
+      
     {
       "deviceId": "30cf1b0e46a59306",
       "model": "Pixel 6",
