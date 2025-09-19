@@ -6,9 +6,9 @@
       "ip": "192.168.0.1",
       "lastOpen": "2025-09-12T13:15:17.495Z",
       "authorized": true,
-      "expire": "2025-09-20T14:14:53.589470+00:00",
-      "authorization_status": "已授权(剩余0天)",
-      "remaining_days": 0
+      "expire": "2025-12-27T14:26:12.874965+00:00",
+      "authorization_status": "已授权(剩余99天)",
+      "remaining_days": 99
     },
     {
       "deviceId": "9b9d8b90b3067a12",
@@ -17,8 +17,8 @@
       "lastOpen": "2025-09-12T17:00:12.172Z",
       "authorized": true,
       "expire": "2025-09-20T14:25:55.476547+00:00",
-      "authorization_status": "已授权(剩余1天)",
-      "remaining_days": 1
+      "authorization_status": "已授权(剩余0天)",
+      "remaining_days": 0
     }
   ]
 }
