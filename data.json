@@ -5,8 +5,10 @@
       "model": "Pixel 6",
       "ip": "192.168.0.1",
       "lastOpen": "2025-09-12T13:15:17.495Z",
-      "authorized": false,
-      "expire": "2299-06-17T12:52:35.034772+00:00"
+      "authorized": true,
+      "expire": "2299-06-17T12:52:35.034772+00:00",
+      "authorization_status": "已授权(剩余99981天)",
+      "remaining_days": 99981
     },
     {
       "deviceId": "9b9d8b90b3067a12",
@@ -14,7 +16,9 @@
       "ip": "192.168.0.1",
       "lastOpen": "2025-09-12T17:00:12.172Z",
       "authorized": false,
-      "expire": null
+      "expire": "2025-09-20T12:36:29.001552+00:00",
+      "authorization_status": "已授权(剩余1天)",
+      "remaining_days": 1
     }
   ]
 }
